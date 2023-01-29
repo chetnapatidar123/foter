@@ -1142,11 +1142,12 @@ text-align: center;
 }
 .news h5{
     margin-top: 0vmax;
-    margin-right: 30vmax;
+    margin-left: 0vmax;
     font-size: 2vmax;
 }
 .news h6{
     width: 50vw;
+    margin-left: 3vmax;
 }
 .news p{
      /* background-color: black; */
