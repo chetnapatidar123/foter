@@ -1141,8 +1141,8 @@ text-align: center;
     font-size: 2.2vmax;
 }
 .news h5{
-    margin-top: 5vw;
-    margin-right: 60vw;
+    margin-top: 0vmax;
+    margin-right: 30vmax;
     font-size: 2vmax;
 }
 .news h6{
@@ -1150,27 +1150,27 @@ text-align: center;
 }
 .news p{
      /* background-color: black; */
-    font-size: 1.2vmax;
-    margin-right: 0vw;
+    font-size: 1vmax;
+    margin-right: 0vmax;
     margin-left: -10vmax;
     display: inline;
 }
 .news button{
-    padding: 1vw 4vw;
+    padding: 1vmax 2.5vmax;
     font-size: 1.2vmax;
     margin-left: 30vmax;
     display: flex;
-    margin-top: -6vw;
+    margin-top: -4vmax;
     background-color: rgb(47, 47, 225);
     color: white;
     border: none;
-    border-radius: 0.5vw;
+    border-radius: 0.5vmax;
     cursor: pointer;
 }
 .news h2{
     font-size: 2vmax;
     font-weight: 900;
-    margin-top: 5vw;
+    margin-top: 5vmax;
 }
 .page9{
     width: 100%;
