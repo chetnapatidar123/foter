@@ -1121,14 +1121,17 @@ text-align: center;
     width: 100%;
     height: 35vh;
     background-color: #ede9e9e3;
+    display: flex;
+    justyfy: center;
+    align-item: center;      
 }
 .news{
     width: 80vw;
     height: 28vh;
     /* background-color: blue; */
-    margin-left: 4.4vmax;
+    margin-left: 0vmax;
     text-align: center;
-    padding-top: 5vmax;
+    padding-top: 0vmax;
     line-height: 4vmax;
 }
 .news h1{
