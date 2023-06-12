@@ -1133,6 +1133,8 @@ text-align: center;
     text-align: center;
     padding-top: 0vmax;
     line-height: 4vmax;
+    position:relative;
+    top:10%;
 }
 .news h1{
     font-size: 3vmax;
